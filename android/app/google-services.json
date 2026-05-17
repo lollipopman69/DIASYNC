@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "66417044166",
+    "firebase_url": "https://diasync-da1e5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "diasync-da1e5",
+    "storage_bucket": "diasync-da1e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66417044166:android:13befa19425e8ccf5585c7",
+        "android_client_info": {
+          "package_name": "com.example.diasync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTrkF4_lWyD8Sqc0Iuy9doo8Wma4Z7EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
